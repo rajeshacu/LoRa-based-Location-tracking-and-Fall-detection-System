@@ -1,4 +1,4 @@
 # Ignore LibreOffice / temp lock files
-.~lock.*.pptx#
-.~lock.*.docx#
-.~lock.*.xlsx#
+.~lock.*
+.~lock.*
+.~lock.*
